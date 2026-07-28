@@ -14,7 +14,7 @@ const img = new Image();
 // Source de cette image : on indique le chemin du fichier à charger.
 // Ce fichier contient TOUTES les images du jeu réunies (spritesheet) :
 // l'oiseau, le décor, les tuyaux — on va découper dedans plus tard.
-img.src = "/media/flappy-bird-set.png";
+img.src = "./media/flappy-bird-set.png";
 
 // ============================================================
 // Reglages generaux
